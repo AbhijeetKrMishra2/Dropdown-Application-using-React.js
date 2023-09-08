@@ -33,25 +33,6 @@
 
 You can customize the appearance and behavior of the dropdown component to match your project's design and requirements. This includes styling the dropdown button and list, adjusting animations, and more.
 
-## Example
-
-```javascript
-import React from 'react';
-import Dropdown from './Dropdown'; // Import your dropdown component
-
-function App() {
-  const dropdownItems = ['Option 1', 'Option 2', 'Option 3'];
-
-  return (
-    <div className="App">
-      <h1>Simple Dropdown Example</h1>
-      <Dropdown items={dropdownItems} />
-    </div>
-  );
-}
-
-export default App;
-```
 
 ## Dependencies
 
