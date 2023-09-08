@@ -40,7 +40,7 @@ Ensure that you have React and any required dependencies set up in your project 
 
 ## License
 
-This project is open-source and available under the [MIT License](LICENSE). Feel free to use, modify, and distribute it as needed.
+This project is open-source and available under the [MIT License](LICENSE).
 
 ## Screenshots
 
