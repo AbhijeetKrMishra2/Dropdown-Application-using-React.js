@@ -42,3 +42,11 @@ Ensure that you have React and any required dependencies set up in your project 
 
 This project is open-source and available under the [MIT License](LICENSE). Feel free to use, modify, and distribute it as needed.
 
+## Screenshots
+
+![Screenshot (258)](https://github.com/AbhijeetKrMishra2/Dropdown-Coding-Ninjas/assets/139151966/751e4699-0764-47ab-bc58-7bf5b2f20864)
+
+![Screenshot (259)](https://github.com/AbhijeetKrMishra2/Dropdown-Coding-Ninjas/assets/139151966/dff68784-e127-43a9-8780-5fe08da5a4b8)
+
+
+![Screenshot (258)](https://github.com/AbhijeetKrMishra2/Dropdown-Coding-Ninjas/assets/139151966/0d17c4e4-f710-4dd5-b240-b2778b32bc4f)
