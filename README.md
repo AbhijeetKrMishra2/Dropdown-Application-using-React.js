@@ -2,8 +2,6 @@
 
 # Hosted Website Link : - https://fluffy-fox-3bab4d.netlify.app/
 
-# Simple Dropdown Component in React
-
 ## Functionality
 
 - **Dropdown Button**: Display a button or trigger element.
