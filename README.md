@@ -48,5 +48,5 @@ This project is open-source and available under the [MIT License](LICENSE). Feel
 
 ![Screenshot (259)](https://github.com/AbhijeetKrMishra2/Dropdown-Coding-Ninjas/assets/139151966/dff68784-e127-43a9-8780-5fe08da5a4b8)
 
+![Screenshot (261)](https://github.com/AbhijeetKrMishra2/Dropdown-Coding-Ninjas/assets/139151966/86fea7ec-1782-4114-a87f-76ce9c61afb0)
 
-![Screenshot (258)](https://github.com/AbhijeetKrMishra2/Dropdown-Coding-Ninjas/assets/139151966/0d17c4e4-f710-4dd5-b240-b2778b32bc4f)
